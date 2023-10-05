@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../source_code/'))
+sys.path.insert(0, os.path.abspath('../../simpleble/'))
 
 # Configuration file for the Sphinx documentation builder.
 #
@@ -10,10 +10,10 @@ sys.path.insert(0, os.path.abspath('../../source_code/'))
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'my_dummy_repo'
-copyright = '2023, J Girardot'
-author = 'J Girardot'
-release = '0.0.2'
+project = 'JG'
+copyright = '2023, Girardot'
+author = 'Girardot'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
